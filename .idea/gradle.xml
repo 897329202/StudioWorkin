@@ -9,13 +9,7 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/Photo_Demo" />
-            <option value="$PROJECT_DIR$/Photo_Library" />
-            <option value="$PROJECT_DIR$/WheelPicker" />
-            <option value="$PROJECT_DIR$/library" />
-            <option value="$PROJECT_DIR$/library/Common" />
-            <option value="$PROJECT_DIR$/library/WheelPicker" />
-            <option value="$PROJECT_DIR$/time" />
+            <option value="$PROJECT_DIR$/lvcheng" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

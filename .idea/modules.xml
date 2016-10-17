@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/library/Common/Common.iml" filepath="$PROJECT_DIR$/.idea/modules/library/Common/Common.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Photo_Demo/Photo_Demo.iml" filepath="$PROJECT_DIR$/.idea/modules/Photo_Demo/Photo_Demo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Photo_Library/Photo_Library.iml" filepath="$PROJECT_DIR$/.idea/modules/Photo_Library/Photo_Library.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/StudioWorking.iml" filepath="$PROJECT_DIR$/.idea/modules/StudioWorking.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/WheelPicker/StudioWorking-WheelPicker.iml" filepath="$PROJECT_DIR$/.idea/modules/WheelPicker/StudioWorking-WheelPicker.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/library/library.iml" filepath="$PROJECT_DIR$/.idea/modules/library/library.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/library/WheelPicker/library-WheelPicker.iml" filepath="$PROJECT_DIR$/.idea/modules/library/WheelPicker/library-WheelPicker.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/time/time.iml" filepath="$PROJECT_DIR$/.idea/modules/time/time.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StudioWorking.iml" filepath="$PROJECT_DIR$/StudioWorking.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lvcheng/lvcheng.iml" filepath="$PROJECT_DIR$/lvcheng/lvcheng.iml" />
     </modules>
   </component>
 </project>

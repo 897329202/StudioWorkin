@@ -1,1 +1,1 @@
-include ':Photo_Demo', ':Photo_Library', ':time', ':library:WheelPicker', ':library:Common', ':WheelPicker'
+include ':lvcheng'
